@@ -1,6 +1,6 @@
 spring:
   application:
-    name: USER-SERVICE
+    name: DEFAULT-CONFIG
 
 # eureka configuration
 eureka:
